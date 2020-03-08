@@ -1,0 +1,10 @@
+body {
+    /* background-color: greenyellow; */
+    background: url('./example.jpg');
+}
+.color1 {
+    color: goldenrod;
+}
+.color2 {
+    color: red;
+}
