@@ -1,7 +1,7 @@
 {
   "name": "webpack-optimization",
   "version": "1.0.0",
-  "description": "",
+  "description": "a webpack optimization.",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --env=development",
@@ -9,7 +9,7 @@
     "build": "webpack --env=production"
   },
   "keywords": [],
-  "author": "",
+  "author": "hirose.morisaki@gmail.com",
   "license": "ISC",
   "sideEffects": true,
   "devDependencies": {
